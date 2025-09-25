@@ -24,9 +24,12 @@ main {
 	padding-bottom: 24px;
 	padding-left: 24px;
 	color: #fff;
+	
+}
+main:hover{
+	border: solid 6px #B17EE3;
 	box-shadow: 6px 0px 50px 0px #662573;
 }
-
 h1 {
 	font-weight: 700;
 	font-size: 36px;
